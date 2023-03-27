@@ -2,7 +2,7 @@
 
 Desafio lançado como parte do processo seletivo para programador junior na empresa Targetdata
 
-### Installation with docker-compose (Recommended)
+### Instalação com Docker (Recommended)
 
 ```
 docker-compose up
